@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "844769343295",
+    "firebase_url": "https://loginapp-af585.firebaseio.com",
+    "project_id": "loginapp-af585",
+    "storage_bucket": "loginapp-af585.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844769343295:android:cd305640ec26c6d3",
+        "android_client_info": {
+          "package_name": "com.example.omaro.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844769343295-n8amjbjf5np8cfuj5elopdflb06a2h0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.omaro.loginapp",
+            "certificate_hash": "5f5eb23b85895099d0a2e3f60b1f14db1256a515"
+          }
+        },
+        {
+          "client_id": "844769343295-gbg712frp3abi7sfma8k8f4rdidul7ns.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqA4ZJVfBpYlK2FoUMBwzFDo_tcoflwQ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844769343295-gbg712frp3abi7sfma8k8f4rdidul7ns.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
